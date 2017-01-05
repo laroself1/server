@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "serverNode.js",
+  "dependencies": {
+    "githubhook": "^1.7.1",
+    "gitlab-webhook-handler": "^1.0.1",
+    "gitlabhook": "0.0.17",
+    "node": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
